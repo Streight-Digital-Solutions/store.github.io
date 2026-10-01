@@ -1,0 +1,25 @@
+{
+  "name": "store.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streight-Digital-Solutions/store.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Streight-Digital-Solutions/store.github.io/issues"
+  },
+  "homepage": "https://github.com/Streight-Digital-Solutions/store.github.io#readme",
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "square": "^46.0.0"
+  }
+}
